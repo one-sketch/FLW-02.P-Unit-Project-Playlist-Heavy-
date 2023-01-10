@@ -22,7 +22,7 @@ let displayLink = document.querySelector(".display-link");
 
 
 // task 7: create and populate an array to store your image urls. Create three more arrays. One to store your song names, one for the artists, and a last one for the song links.
-/*
+
 let images = ["https://lh3.googleusercontent.com/HyW6tj5Qzgx5EMhyxgssxe3ZpO6sUSiRRONUS1qXJVwNKnIBdStxt7BPCDHm3QGRoPZOZdTwr_6sx7gf=w544-h544-l90-rj", "https://lh3.googleusercontent.com/gFlETzxpQNG5j0UCViKV41R-Miec0IZarmGmIwfqDVgM7FWwzS2Vc6HNG2hUnIPjSq5Kf2mApC4dhi-r=w544-h544-l90-rj","https://lh3.googleusercontent.com/tnhqj9DoW6bnbFh5FCrvUAVOA5WQWFNC9MelOLmK0ilNb2GptdSbvrR-HP3GQcv8RAXPCgbgDLa3erUr=w544-h544-l90-rj", "https://lh3.googleusercontent.com/27DmrXbgrzbAt-4_QEIVv9duFpDMfTjeOxrjVNrYgnaJjdzfhw0een52LGhQZH8N2IcDoHAoep6UtmYG=w544-h544-l90-rj"];
 
 let songNames = ["Pixel Galaxy", "Bubble Tea", "Marble Soda", "Pastel"];
@@ -30,7 +30,7 @@ let songNames = ["Pixel Galaxy", "Bubble Tea", "Marble Soda", "Pastel"];
 let artist = ["Snail’s House", "Dark Cat", "Shawn Wasabi", "Moe Shop"];
 
 let songLinks = ["https://music.youtube.com/watch?v=RK8e4JQgPfo&feature=share","https://music.youtube.com/watch?v=JBKXmHRSURs&feature=share","https://music.youtube.com/watch?v=qAeybdD5UoQ&feature=share","https://music.youtube.com/watch?v=NfJpdNi0-rM&feature=share"];
-*/
+
 
 //REFACTOR ARRAYS DAY 
 // task 11: comment out the arrays data.

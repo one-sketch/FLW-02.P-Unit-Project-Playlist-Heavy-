@@ -11,7 +11,7 @@ h1 {
   display: flex;
   justify-content: space-around;
   border-top: 5px solid #FEC8D8;
-  border-bottom: 5px solid black;
+  border-bottom: 5px solid  white;
   padding: 25px
 }
 
@@ -66,18 +66,21 @@ h1 {
 input {
   padding: 5px 10px;
   font-size: 14px;
-  color: black;
+  color: purple;
 }
 
 button {
   font-size: 14px;
   padding: 5px 10px;
-  color: #E0BBE4;
+  color: #c789cd;
+  background-color: lavender;
 }
 
 body {
-  background: url(https://i.pinimg.com/originals/b8/4f/41/b84f4195a6d33c93d01111287c0c7b7e.jpg);
+  background: url("https://imgs.search.brave.com/YsDJqHA3ADX86AKenfP34DjVr_uhfm4ErEqTBesdJvI/rs:fit:968:1000:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2FkL2Uz/L2Q4L2FkZTNkODVj/ZDQ3MGI0MTk4M2I4/ODI0NGNjMTAyOGZl/LnBuZw");
 color: white;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
 }
 
 h4{
